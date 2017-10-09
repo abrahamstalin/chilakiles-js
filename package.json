@@ -1,0 +1,19 @@
+{
+  "name": "chilakiles",
+  "version": "1.0.0",
+  "description": "Simple Web-Component Javascript Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrahamstalin/chilakiles-js.git"
+  },
+  "author": "@abrahamstalin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abrahamstalin/chilakiles-js/issues"
+  },
+  "homepage": "https://github.com/abrahamstalin/chilakiles-js#readme"
+}
